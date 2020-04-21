@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "bootstrap-scss": "^4.4.1",
     "bootstrap-vue": "^2.1.0",
     "core-js": "^3.6.4",
     "esri-loader": "^2.14.0",
@@ -18,7 +19,7 @@
     "@vue/cli-plugin-eslint": "~4.3.0",
     "@vue/cli-service": "~4.3.0",
     "babel-eslint": "^10.1.0",
-    "bootstrap": "^4.3.1",
+    "bootstrap": "^4.4.1",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
     "popper.js": "^1.16.0",
