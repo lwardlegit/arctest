@@ -18,7 +18,7 @@
 </template>
 
 <script>
-import WebMap from "./components/WebMap";
+import WebMap from "./components/webmap";
 
 export default {
   name: "App",
